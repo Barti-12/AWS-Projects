@@ -53,7 +53,7 @@ Results:
  
 
 
-
+REST API are ready to be used to PUT some data to DynamoDB.
 
 
 
