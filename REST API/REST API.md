@@ -24,6 +24,7 @@ Steps:
 
 
 3.	Creating API GATEWAY
+
 •	Create Resources “orders”
 •	Next create POST method
 •	In section “Execution role” put your role arn
