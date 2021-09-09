@@ -1,4 +1,4 @@
-Configuration how to set up an API Gateway endpoint that directly interacts with DynamoDB
+Project shows how to set up an API Gateway endpoint that directly interacts with DynamoDB
 
 ![image](https://user-images.githubusercontent.com/60892908/132727620-98aff593-ffaa-4b9f-8b38-be7b7a9f09f5.png)
 
