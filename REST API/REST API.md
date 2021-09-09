@@ -11,10 +11,12 @@ Steps:
 2.	Creating IAM role to access to from API Gateway to DynamoDB
 
 •	To create appropriate role we must choose policy called 
+
 ![image](https://user-images.githubusercontent.com/60892908/132727684-d279e2d7-7ee2-4dbe-8259-1b4ebb0afd0e.png)
 
  
 •	Next we must change Trust relationships in our policy to this below
+
 ![image](https://user-images.githubusercontent.com/60892908/132727705-6c1ab221-b9df-4052-81ae-15bc32f3e69b.png)
 
  
