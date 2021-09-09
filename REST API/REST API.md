@@ -4,7 +4,7 @@ Project shows how to set up an API Gateway endpoint that directly interacts with
 
 
 Steps:
-1.	Creating DynamoDB table „Orders” with Partition key OrderId and Sort key date
+1.	Creating DynamoDB table "Orders" with Partition key OrderId and Sort key date
 
  ![image](https://user-images.githubusercontent.com/60892908/132727667-20d5b13c-affb-4af6-9b67-f9588c872492.png)
 
@@ -26,13 +26,13 @@ Steps:
 
 3.	Creating API GATEWAY
 
- •	Create Resources “orders”
+ •	Create Resources "orders"
 
- •	Next create POST method
+ •	Next create "POST" method
 
- •	In section “Execution role” put your role arn
+ •	In section "Execution role" put your role arn
 
- •	Other configuration shoud be like on picture below
+ •	Other configuration should be like on picture below
 
  ![image](https://user-images.githubusercontent.com/60892908/132727734-79d9c912-67ca-48e2-9171-4a3a680c1cdf.png)
 
