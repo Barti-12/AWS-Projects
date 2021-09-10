@@ -1,4 +1,4 @@
-# This is an <h1> tag
+# REST API <h1> tag
 
 Project shows how to set up an API Gateway endpoint that directly interacts with DynamoDB
 
