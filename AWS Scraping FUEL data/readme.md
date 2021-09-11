@@ -5,5 +5,7 @@
 # Project shows how to scrape date from webiste and store them in RDS MySql database <h3>
   
   * Configuration stuff
+    1. Import nessesary library.
+      It's a tricky thing.
   
 
