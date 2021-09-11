@@ -58,6 +58,9 @@ Results:
 REST API are ready to be used to PUT some data to DynamoDB.
 
 
+Output from database 
+ 
+![image](https://user-images.githubusercontent.com/60892908/132944078-30538d6c-aa5f-405a-95a6-3c84fea8bc8f.png)
 
  
 
