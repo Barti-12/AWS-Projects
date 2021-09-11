@@ -22,4 +22,8 @@ Configuration stuff
  ![image](https://user-images.githubusercontent.com/60892908/132944253-8a0162a5-35d0-4362-8110-4f663d4d9e53.png)
 
   
+ Email message
+  
+  ![image](https://user-images.githubusercontent.com/60892908/132944319-09aed5aa-a756-482e-99ea-0756053a77fe.png)
+
 
