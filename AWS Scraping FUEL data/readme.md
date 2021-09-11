@@ -11,5 +11,8 @@ Configuration stuff
   
 ![image](https://user-images.githubusercontent.com/60892908/132942955-b251649f-292d-467f-81fa-0b4b98db5df0.png)
 
- 2) Automation download data    
+ 2) Automation download data.
+  
+  
+  
 
