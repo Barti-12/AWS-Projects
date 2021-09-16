@@ -30,7 +30,7 @@ def lambda_handler(event, context):
         state_name=value["name"]
         ab_code=value['abbreviation']
         area_code=str(value['area_codes'])
-        #print(area_code)
+        
     
         cursor.execute("INSERT INTO States(name, ab_code, area_code) VALUES (%s, %s, %s)",(state_name,ab_code,area_code))
     connection.commit()
