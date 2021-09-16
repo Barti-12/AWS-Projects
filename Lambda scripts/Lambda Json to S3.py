@@ -4,6 +4,7 @@ import boto3
 s3=boto3.client('s3')
 
 def lambda_handler(event, context):
+    
     bucket='somebucket'
     
     somejson= {"name":"Bartek", "age":24, "food":"kebab, pizza","free":True}
